@@ -20,6 +20,25 @@ The **CImg Library** is a **small** and **open-source** **C++ library** for **im
 
 ------------------
 
-> **CImg** stands for **Cool Image** : It is _easy to use_, _efficient_ and is intended to be a very pleasant toolbox to design image processing algorithms in C++. Due to its generic conception, it can cover a wide range of image processing applications.
+Run:
+```bash
+$ npm i cimg.cxx
+```
+
+And then include `CImg.h` as follows:
+```c
+#include "node_modules/cimg.cxx/CImg.h"
+```
 
 ------------------
+
+> **CImg** stands for **Cool Image** : It is _easy to use_, _efficient_ and is intended to be a very pleasant toolbox to design image processing algorithms in C++. Due to its generic conception, it can cover a wide range of image processing applications. It is developed and maintained by the [GREYC laboratory](https://github.com/GreycLab) (Caen, France).
+
+------------------
+
+<br>
+<br>
+
+
+[![ORG](https://img.shields.io/badge/org-nodef-green?logo=Org)](https://nodef.github.io)
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/cimg.cxx)
