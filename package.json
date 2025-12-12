@@ -1,0 +1,26 @@
+{
+  "name": "cimg.cxx",
+  "version": "3.6.5",
+  "description": "The CImg Library is a small and open-source C++ toolkit for image processing; GREYC (2018).",
+  "keywords": [
+    "cxx",
+    "library",
+    "image",
+    "processing",
+    "cimg"
+  ],
+  "homepage": "https://github.com/nodef/cimg.cxx#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/cimg.cxx/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/cimg.cxx.git"
+  },
+  "license": "CeCILL-C",
+  "author": "wolfram77@gmail.com",
+  "main": "cimg.h",
+  "scripts": {
+    "test": "exit"
+  }
+}
